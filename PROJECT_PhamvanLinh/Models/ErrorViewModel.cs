@@ -1,4 +1,4 @@
-namespace PROJECT_NAME.Models;
+namespace PROJECT_PhamVanLinh.Models;
 
 public class ErrorViewModel
 {
