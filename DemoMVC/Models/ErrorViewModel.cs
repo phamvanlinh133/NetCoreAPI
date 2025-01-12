@@ -1,4 +1,4 @@
-namespace PROJECT_PhamVanLinh.Models;
+namespace DemoMVC.Models;
 
 public class ErrorViewModel
 {
