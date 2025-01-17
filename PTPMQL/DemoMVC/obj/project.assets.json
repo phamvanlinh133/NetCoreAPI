@@ -8,26 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LAPTOP\\.nuget\\packages\\": {}
+    "C:\\Users\\dtp93\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Net_Core_API\\DemoMVC\\DemoMVC.csproj",
-      "projectName": "DemoMVC",
-      "projectPath": "C:\\Net_Core_API\\DemoMVC\\DemoMVC.csproj",
-      "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Net_Core_API\\DemoMVC\\obj\\",
+      "projectUniqueName": "D:\\PTPMQL\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectName": "FirstWebMVC",
+      "projectPath": "D:\\PTPMQL\\Net_Core_API\\FirstWebMVC\\FirstWebMVC.csproj",
+      "packagesPath": "C:\\Users\\dtp93\\.nuget\\packages\\",
+      "outputPath": "D:\\PTPMQL\\Net_Core_API\\FirstWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\dtp93\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
