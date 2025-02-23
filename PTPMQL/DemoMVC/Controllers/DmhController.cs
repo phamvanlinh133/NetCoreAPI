@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
-using MvcMovie.Models;
+using DemoMVC.Models;
 
-namespace MvcMovie.Controllers
+namespace DemoMVC.Controllers
 {
     public class DmhController : Controller
     {
